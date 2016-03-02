@@ -1,12 +1,9 @@
 abstract-rendering==0.5.1
 argcomplete==0.8.1
-astropy==0.4.2
 atom==0.3.9
 backports.ssl-match-hostname==3.4.0.2
 beautifulsoup4==4.3.2
-binstar==0.7.1
 bitarray==0.8.1
-blaze==0.6.3
 blz==0.6.2
 bokeh==0.6.1
 boto==2.32.1
