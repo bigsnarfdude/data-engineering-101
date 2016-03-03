@@ -49,6 +49,10 @@ Prior experience with Python and the scientific Python stack is beneficial.  The
 7. Run the final pipeline: `python ml-pipeline.py BuildModels --input-dir text --num-topics 10 --lam 0.8`
 
 --
+**Train Classifier test**
+
+`python ml-pipeline.py TrainClassifier --lam 0.5 --input-dir text --local-scheduler --evaluate`
+
 
 **For parallelism, set `--workers` (note this is Task parallelism):**
 
