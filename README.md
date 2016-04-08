@@ -50,7 +50,7 @@ Prior experience with Python and the scientific Python stack is beneficial.  The
 
 --
 
-**Vertorize**
+**Vectorize**
 
 `python ml-pipeline.py Vectorize --input-dir text --local-scheduler`
 
